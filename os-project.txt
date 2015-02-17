@@ -1,0 +1,5 @@
+http://www.computerhope.com/undelete.htm
+http://docs.openafs.org/AdminGuide/HDRWQ306.html
+http://www.cyberciti.biz/tips/linuxunix-recover-deleted-files.html
+http://www.linux.org/threads/undelete-files-on-linux-systems.4316/
+www.cyberciti.biz/tips/linuxunix-recover-deleted-files.html
