@@ -1,3 +1,0 @@
-read n
-ls $n*
-
